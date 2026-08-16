@@ -1,0 +1,26 @@
+{
+  "title": "Mini Super",
+  "description": "Sistema de gestión para mini supermercado",
+  "language": "es",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.ico"
+  },
+  "openGraph": {
+    "image": "/og-image.png"
+  },
+  "analytics": {
+    "googleAnalyticsId": ""
+  },
+  "customScripts": {
+    "headStart": "",
+    "headEnd": "",
+    "bodyStart": "",
+    "bodyEnd": ""
+  },
+  "accessibility": {
+    "addBypassLinks": true
+  }
+}
